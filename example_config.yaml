@@ -1,0 +1,6 @@
+
+terra_workspace: "broad-getzlab-ibm-parsons-t/Getz_Parsons_IBM_BreastCancer_Exposed_Non-Exposed_Analysis_Clean"
+
+#locus_file: "gs://getzlab-workflows-reference_files-oa/hg38/msmutect/hg38_1_to_15_loci.phobos"
+locus_file: "gs://getzlab-workflows-reference_files-oa/hg19/msmutect/msiDetect_genome_impure_all.phobos.no_chr_7_40.txt"
+
